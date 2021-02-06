@@ -1,0 +1,11 @@
+Hello
+
+This is some text
+
+here is my bash script(line number 7 and 8):
+
+echo "Hello World"
+echo "How are you doing today?"
+
+end of the text file
+
